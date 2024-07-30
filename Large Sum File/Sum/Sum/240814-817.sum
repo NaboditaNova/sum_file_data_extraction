@@ -1,0 +1,179 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.00 - May2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 14/05/2024  Time: 08:24:35.457                              
+
+ => PCR file code: 240814-817
+ => DAT file code: LCNC_240814-817.dat  -> Relative contribution: 1.0000                                                            
+ => Title: 240814-817 952 K
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of neutron powder data                                                                                        
+ => The   12th default profile function was selected
+
+ => X-Y type of data: 2theta/TOF/E(Kev) Intens sigma for pattern:  1
+ => Wavelengths:  1.86800 1.86800
+ => Cos(Monochromator angle)=   0.0000
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*   12.00
+ ==> Angular range, step and number of points:
+     2Thmin:       0.020000  2Thmax:     150.770004  Step:       0.050590  No. of points:   2982
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    6.760 g/cm3
+ => Scor: 2.4536
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   59
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 LCNC                                    I 4/m m m           
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    52  
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ La      0.00000(   0)  0.00000(   0)  0.36132(  13)  1.603( 47)  0.115(  1)    4
+ Ca      0.00000(   0)  0.00000(   0)  0.36132(  13)  1.603( 47)  0.010(  1)    4
+ Ni      0.00000(   0)  0.00000(   0)  0.00000(   0)  1.358( 47)  0.045(  1)    2
+ Cu      0.00000(   0)  0.00000(   0)  0.00000(   0)  1.358( 47)  0.018(  1)    2
+ O1      0.00000(   0)  0.00000(   0)  0.17872(  22)  3.790( 65)  0.130(  0)    4
+ O2      0.00000(   0)  0.50000(   0)  0.00000(   0)  2.144( 55)  0.125(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              3.85454   0.00001
+                              3.85454   0.00001
+                             12.88564   0.00008
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :     20.024831772     0.237118825
+ => Eta(p-v) or m(p-vii) :    0.12488   0.01382
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.22220   0.00535
+                             -0.46326   0.01019
+                              0.34272   0.00462
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.18854   0.00913
+                              0.05926   0.00411
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.00000   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0233    0.0000
+ => Background Parameters (linear interpolation)  ==>
+                                 2331.98        18.4255    
+                                 2607.47        21.8225    
+                                 3124.79        27.0158    
+                                 3572.04        27.8814    
+                                 4353.96        34.3017    
+                                 4850.19        42.3642    
+                                 5569.88        51.1283    
+                                 6370.91        57.9617    
+                                 7212.95        63.5983    
+                                 7935.34        73.8755    
+                                 8317.42        75.9384    
+                                 8527.76        67.8595    
+                                 8178.99        68.4839    
+                                 7661.67        57.6274    
+                                 6607.52        44.5521    
+                                 5569.65        36.0798    
+                                 4932.60        26.1576    
+                                 4271.84        27.1223    
+                                 4530.66        33.5713    
+                                 5253.15        45.2888    
+                                 6000.74        51.6394    
+                                 6878.36        46.4716    
+                                 7474.13        59.3433    
+                                 6803.36        50.4516    
+                                 6655.75        43.5182    
+                                 6268.80        33.5534    
+                                 5777.25        22.8174    
+                                 5927.51        22.7661    
+                                 6495.42        28.9907    
+                                 6805.10        28.0343    
+                                 7281.80        29.1616    
+                                 7763.28        39.5653    
+                                 7911.52        42.0524    
+                                 8393.07        37.6072    
+                                 8274.70        32.7931    
+                                 7363.54        33.2136    
+                                 6478.22        32.0435    
+                                 6291.95        29.6238    
+                                 5973.96        26.8966    
+                                 5760.88        24.5920    
+                                 5671.13        25.8373    
+ => Cos(2theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle: 13 => MaxCycle: 30
+ => N-P+C:  2620
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  2.02     Rwp:  3.01     Rexp:    1.18 Chi2:  6.50      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  15.7     Rwp:  11.2     Rexp:    4.40 Chi2:  6.50    
+ => Deviance:  0.173E+05     Dev*  :   6.610    
+ => DW-Stat.:    0.5318     DW-exp:     1.9249
+ => N-sigma of the GoF:      199.150
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  2478
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  2.04     Rwp:  3.04     Rexp:    1.16 Chi2:  6.82      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  15.4     Rwp:  11.2     Rexp:    4.28 Chi2:  6.82    
+ => Deviance:  0.172E+05     Dev*  :   6.931    
+ => DW-Stat.:    0.5364     DW-exp:     1.9242
+ => N-sigma of the GoF:      204.727
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   6.87    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     LCNC
+ => Bragg R-factor:   4.11       Vol:  191.448( 0.002)  Fract(%):  100.00( 1.67)
+ => Rf-factor=  5.50             ATZ:         775.575   Brindley:  1.0000
+
+ 
+              CPU Time:     4.012 seconds
+                            0.067 minutes
+
+ => Run finished at:     Date: 14/05/2024  Time: 08:24:39.484                              
